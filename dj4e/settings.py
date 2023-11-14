@@ -42,7 +42,6 @@ INSTALLED_APPS = [
     'home',
     'ads',
     "social_django",
-    'crispy_forms',
 
     'django_extensions',
 ]
